@@ -1,3 +1,7 @@
+![demo](2set.png)
+
+![demo](3set.png)
+
 ## Venn Diagram Generator
 
 This repository contains two Python scripts for generating Venn diagrams:
