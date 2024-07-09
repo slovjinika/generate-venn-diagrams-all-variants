@@ -1,14 +1,14 @@
-![demo](2set.gif)
-
-![demo](3set.gif)
-
 ## Venn Diagram Generator
 
 This repository contains two Python scripts for generating Venn diagrams:
 
 1. venn3set.py: Generates all possible Venn diagram combinations for three sets (A, B, C).
 
+![demo](3set.gif)
+
 2. venn2set.py: Generates all possible Venn diagram combinations for two sets (A, B).
+
+![demo](2set.gif)
 
 ## Features
 
