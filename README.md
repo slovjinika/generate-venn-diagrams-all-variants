@@ -2,13 +2,14 @@
 
 This repository contains two Python scripts for generating Venn diagrams:
 
-1. venn3set.py: Generates all possible Venn diagram combinations for three sets (A, B, C).
+1. venn2set.py: Generates all possible Venn diagram combinations for two sets (A, B).
+
+![demo](2set.gif)
+
+2. venn3set.py: Generates all possible Venn diagram combinations for three sets (A, B, C).
 
 ![demo](3set.gif)
 
-2. venn2set.py: Generates all possible Venn diagram combinations for two sets (A, B).
-
-![demo](2set.gif)
 
 ## Features
 
@@ -21,10 +22,11 @@ Common Features:
 
 Specific Features:
 
-- `venn3set.py`:
-    - Generates 2^7 = 128 unique combinations for three sets.
 - `venn2set.py`:
     - Generates 2^3 = 8 unique combinations for two sets.
+- `venn3set.py`:
+    - Generates 2^7 = 128 unique combinations for three sets.
+
 
 ## Requirements
 
@@ -45,9 +47,8 @@ For both scripts:
 2. *Place Roboto font file:* Make sure the RobotoMono-Regular.ttf font file is in the same directory as the script (or adjust the font_path variable in the script).
 3. *Run the script:* Execute the script using Python:
 
-`python venn3set.py  # For three sets`
-
-`python venn2set.py # For two sets`
+`python venn2set.py # For two sets
+python venn3set.py  # For three sets`
 
 4. *Check the output:* The generated Venn diagrams will be saved in the venn_diagrams folder.
 
