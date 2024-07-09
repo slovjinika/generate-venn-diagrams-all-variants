@@ -1,6 +1,6 @@
-![demo](2set.png)
+![demo](2set.gif)
 
-![demo](3set.png)
+![demo](3set.gif)
 
 ## Venn Diagram Generator
 
